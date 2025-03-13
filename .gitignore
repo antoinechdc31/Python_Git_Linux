@@ -3,3 +3,7 @@ __pycache__/
 *.html
 *.save*
 *.txt
+data/
+exchange_rates.csv
+yes
+yes.pub
