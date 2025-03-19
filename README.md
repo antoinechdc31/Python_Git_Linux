@@ -61,6 +61,7 @@ Les taux de change sont extraits d'un site offrant des mises à jour fréquentes
 
 ## 📂 Structure du projet
 
+```bash
 /scraping_dir
 │── /dashboard
 │   ├── app.py
