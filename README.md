@@ -70,9 +70,9 @@ Les taux de change sont extraits d'un site offrant des mises à jour fréquentes
 │   ├── exchange_rates.csv
 │── /reports
 │   ├── report_YYYY-MM-DD.txt
-│── /scripts
 │   ├── generate_report.py
-│── extract_rates.sh
+|── /bash
+│   ├── extract_rates.sh
 │── rates.html
 │── README.md
 │── .gitignore
