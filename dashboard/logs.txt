@@ -1,0 +1,21 @@
+nohup: ignoring input
+Dash is running on http://0.0.0.0:8050/
+
+ * Serving Flask app 'app'
+ * Debug mode: on
+192.155.93.59 - - [13/Mar/2025 12:22:42] code 400, message Bad request syntax ('JRMI\x00\x02K')
+172.105.246.139 - - [13/Mar/2025 20:24:47] code 400, message Bad request syntax ('JRMI\x00\x02K')
+172.105.246.139 - - [13/Mar/2025 20:24:47] code 400, message Bad request version ('RTSP/1.0')
+172.105.246.139 - - [13/Mar/2025 20:24:52] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+172.105.246.139 - - [13/Mar/2025 20:24:57] code 400, message Bad HTTP/0.9 request type ('\x00')
+172.105.246.139 - - [13/Mar/2025 20:24:57] code 400, message Bad request syntax ('HELP')
+172.105.246.139 - - [13/Mar/2025 20:24:57] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+172.105.246.139 - - [13/Mar/2025 20:24:57] code 400, message Bad request version ('\x00/\x00')
+172.105.246.139 - - [13/Mar/2025 20:24:57] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+172.105.246.139 - - [13/Mar/2025 20:25:02] code 400, message Bad request version ('0.12\x00')
+172.105.246.139 - - [13/Mar/2025 20:25:07] code 400, message Bad HTTP/0.9 request type ('l\x00')
+172.105.246.139 - - [13/Mar/2025 20:25:07] code 400, message Bad request version ('SIP/2.0')
+172.105.246.139 - - [13/Mar/2025 20:25:12] code 400, message Bad HTTP/0.9 request type ('AMQP\x00\x00')
+172.105.246.139 - - [13/Mar/2025 20:25:12] code 400, message Bad request version ('\x00/\x00')
+172.105.246.139 - - [13/Mar/2025 20:25:22] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Tä\x16ís°|Ä`w\x9ff§â\x19\x81\x91\x89n\x00&\x86°7y.åÁ\xadêLf')
+172.105.246.139 - - [13/Mar/2025 20:25:23] code 400, message Bad request syntax ('\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbbb0100000001')
