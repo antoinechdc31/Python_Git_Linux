@@ -62,15 +62,33 @@ Les taux de change sont extraits d'un site offrant des mises à jour fréquentes
 
 ## 📂 Structure du projet
 
- 
+ /scraping_dir
 
-/scraping_dir │── /dashboard # Interface web du projet (Python Dash) │ ├── app.py # Code principal du dashboard │ ├── logs.txt # Journal des erreurs et mises à jour │── /data # Données scrappées stockées localement │ ├── exchange_rates.csv # Historique des taux de change │── /reports # Rapports quotidiens générés automatiquement │ ├── report_YYYY-MM-DD.txt # Rapports détaillés des variations │── /scripts # Scripts pour l'analyse des données │ ├── generate_report.py # Script Python pour générer les rapports │── extract_rates.sh # Script Bash pour récupérer les taux de change │── rates.html # Page HTML brute scrappée │── README.md # Documentation du projet │── .gitignore # Liste des fichiers à exclure du repo
+│── /dashboard 
 
- 
+│   ├── app.py
 
- 
+│   ├── logs.txt
 
----
+│── /data    
+
+│   ├── exchange_rates.csv 
+
+│── /reports
+
+│   ├── report_YYYY-MM-DD.txt 
+
+│── /scripts       
+
+│   ├── generate_report.py 
+
+│── extract_rates.sh 
+
+│── rates.html
+
+│── README.md
+
+│── .gitignore
 
  
 
