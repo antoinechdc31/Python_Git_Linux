@@ -76,7 +76,7 @@ Les taux de change sont extraits d'un site offrant des mises à jour fréquentes
 │── rates.html
 │── README.md
 │── .gitignore
-
+```
 ---
  
 
@@ -109,3 +109,5 @@ Les taux de change sont extraits d'un site offrant des mises à jour fréquentes
 git clone git@github.com:antoinechdc31/Python_Git_Linux.git
 
 cd Python_Git_Linux
+```
+---
