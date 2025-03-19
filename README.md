@@ -16,7 +16,7 @@ Les données récupérées sont stockées et affichées sur un **dashboard inter
 
 ### 🔍 **Pourquoi ce projet ?**
 
-Le marché des devises est l'un des plus volatils et réactifs. L'objectif ici est de :
+Le marché des devises est l'un des plus liquides avec des taux qui bougent en continue 24h/24. L'objectif ici est de :
 
 - **Analyser les fluctuations des devises majeures**.
 
@@ -58,38 +58,25 @@ Les taux de change sont extraits d'un site offrant des mises à jour fréquentes
 
 ---
 
- 
 
 ## 📂 Structure du projet
 
- /scraping_dir
-
-│── /dashboard 
-
+/scraping_dir
+│── /dashboard
 │   ├── app.py
-
 │   ├── logs.txt
-
-│── /data    
-
-│   ├── exchange_rates.csv 
-
+│── /data
+│   ├── exchange_rates.csv
 │── /reports
-
-│   ├── report_YYYY-MM-DD.txt 
-
-│── /scripts       
-
-│   ├── generate_report.py 
-
-│── extract_rates.sh 
-
+│   ├── report_YYYY-MM-DD.txt
+│── /scripts
+│   ├── generate_report.py
+│── extract_rates.sh
 │── rates.html
-
 │── README.md
-
 │── .gitignore
 
+---
  
 
 ## 🛠️ Technologies Utilisées
